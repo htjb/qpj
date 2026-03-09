@@ -3,9 +3,9 @@ requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "admmax"
+name = "qpj"
 version = "0.1.0"
-description = "admmax stuff."
+description = "Quadratic Programming in JAX."
 authors = [{name ="Harry Bevins", email ="htjb2@cam.ac.uk"}]
 
 [tool.ruff]
